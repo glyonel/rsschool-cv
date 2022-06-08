@@ -1,7 +1,9 @@
 # Nikolay Kulikov
+32 y.o.\
+beginner
 
 ### Contacts:
-    * Email: kulikov.ns@outlook.com
-    * Telegram: @MERS_CoV
+- E-mail: kulikov.ns@outlook.com
+- Telegram: @MERS_CoV
 
 ### Skills:
