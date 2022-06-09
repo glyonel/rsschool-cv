@@ -1,1 +1,1 @@
-https://glyonel.github.io/rsschool-cv/cv
+https://glyonel.github.io/rsschool-cv/
